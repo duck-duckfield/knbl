@@ -1085,6 +1085,37 @@
     "search": "Хобіт: Бітва пяці войскаў"
   },
   {
+    "id": 685246,
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/duck-duckfield/knbl/main/posters/685246.jpg",
+    "quality": null,
+    "translate": "AniBel",
+    "player": "s1e1 https://drive.google.com/file/d/1ehdS_ysJWW0UWN6YzVwmFb_n5axsAvyi/preview,s1e2 https://drive.google.com/file/d/1FLe9yc-tv1R2mkxNEFCygGDy68QoA-du/preview,s1e3 https://drive.google.com/file/d/1_wJuLl8ULo5ZSpZYPUwCxCaKIWvC2R90/preview,s1e4 https://drive.google.com/file/d/1ld7JpV6U2wZJCHCPoA0Yee5Rf9NfHBNW/preview,s1e5 https://drive.google.com/file/d/1PQgoJMO3SCvAJLBdmXaJce7JRgUpv3sh/preview,s1e6 https://drive.google.com/file/d/1c_Gz93KqvSTdIWhbEHGwfodopNLVlgnn/preview,s1e7 https://drive.google.com/file/d/1E-CsTKoGNmdgDoZtNlMEb8ZBxd-X_fZi/preview,s1e8 https://drive.google.com/file/d/1WxAt-kwomioCJXU5-eEnBIdeBKpafcKJ/preview,s1e9 https://drive.google.com/file/d/12CVeaE2gjzCR-wJPu5yPe32NazFpdjr7/preview,s1e10 https://drive.google.com/file/d/1lnv4HOcEbePbN0o9iD7LIg1tJcmh6aGf/preview,s1e11 https://drive.google.com/file/d/1qJksQyyLEneVJvq4iw_cr3xa4eociUXT/preview",
+    "title_page": "Рык і Морці",
+    "description_short": "Рык — звар'яцелы навуковец, які ўцягвае сваёго ўнука Морці ў навукова-фантастычныя прыгоды, вынікі якіх нярэдка садзейнічаюць разбурэнню іх сям'і, а часам і цэлага свету. Далучайцеся да Рыка і Морці ў іх прыгодах на розных планетах і сусветах, а таксама сачыце за іх намаганнямі жыць, як нармальная сям’я, у ненармальным свеце.",
+    "title_en": "Rick and Morty",
+    "title_ru": "Рык і Морці",
+    "description": "Рык — звар'яцелы навуковец, які ўцягвае сваёго ўнука Морці ў навукова-фантастычныя прыгоды, вынікі якіх нярэдка садзейнічаюць разбурэнню іх сям'і, а часам і цэлага свету. Далучайцеся да Рыка і Морці ў іх прыгодах на розных планетах і сусветах, а таксама сачыце за іх намаганнямі жыць, як нармальная сям’я, у ненармальным свеце.",
+    "year": "2013",
+    "country": "ЗША",
+    "genre": "Мультфільм,Камедыя,Фантастыка,Прыгоды",
+    "director": "Уізлі Арчер,Піт Мішэлс,Nathan Litz",
+    "actor": "Джасцін Ройланд,Крыс Парнэл,Спенсер Грэммер,Сара Чок,Кары Уолгрэн,Морыс ЛаМарш,Дэн Хармон,Том Кені,Брэндон Джонсан,Нолан Норт",
+    "premiere": "2013-12-02",
+    "kp_rating": "0",
+    "kp_vote": "0",
+    "imdb_rating": "91",
+    "imdb_vote": "549203",
+    "pictures": null,
+    "custom": {
+      "unique": false,
+      "lastmod": "0001-01-01T00:00:00",
+      "imdb_id": "2861424"
+    },
+    "kp_id": 685246,
+    "search": "Рык і Морці"
+  },
+  {
     "id": 631966,
     "type": "movie",
     "poster": "https://raw.githubusercontent.com/duck-duckfield/knbl/main/posters/631966.jpg",
