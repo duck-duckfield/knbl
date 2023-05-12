@@ -3813,6 +3813,37 @@
     "search": "Сваты"
   },
   {
+    "id": 7410,
+    "type": "movie",
+    "poster": "https://raw.githubusercontent.com/duck-duckfield/knbl/main/posters/7410.jpg",
+    "quality": null,
+    "translate": null,
+    "player": "https://my.mail.ru/video/embed/1495248355356312092",
+    "title_page": "Рабакоп",
+    "description_short": null,
+    "title_en": "Robocop",
+    "title_ru": "Рабакоп",
+    "description": null,
+    "year": "1987",
+    "country": "ЗША",
+    "genre": "Фантастыка,Баявік,Трылер,Крымінал",
+    "director": "Пол Верхавен",
+    "actor": "Пітэр Уэлер,Нэнсі Ален,Дэн О’Херліхі,Роні Кокс,Кертвуд Сміт,Мігель Ферэр,Роберт Дукуй,Рэй Уайз,Фелтан Пэры,Пол Маккрэйн",
+    "premiere": "1987-07-17",
+    "kp_rating": "76",
+    "kp_vote": "119431",
+    "imdb_rating": "76",
+    "imdb_vote": "266785",
+    "pictures": null,
+    "custom": {
+      "unique": false,
+      "lastmod": "0001-01-01T00:00:00",
+      "imdb_id": null
+    },
+    "kp_id": 7410,
+    "search": "Рабакоп"
+  },
+  {
     "id": 6437,
     "type": "movie",
     "poster": "https://raw.githubusercontent.com/duck-duckfield/knbl/main/posters/6437.jpg",
