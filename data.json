@@ -5007,7 +5007,7 @@
     "genre": null,
     "director": null,
     "actor": null,
-    "premiere": null,
+    "premiere": "1900-01-01",
     "kp_rating": null,
     "kp_vote": null,
     "imdb_rating": null,
