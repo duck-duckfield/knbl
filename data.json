@@ -10261,6 +10261,37 @@
     "search": "Прыгоды Санта-Клауса"
   },
   {
+    "id": 85208,
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/duck-duckfield/knbl/main/posters/85208.jpg",
+    "quality": null,
+    "translate": null,
+    "player": "https://vk.com/video_ext.php?oid=170222183&id=163518286&hash=a5c4fff103d7ef8e,https://vk.com/video_ext.php?oid=170222183&id=163565253&hash=1f7bc8915dab117e,https://vk.com/video_ext.php?oid=170222183&id=163575275&hash=eac96a3defa93678,https://vk.com/video_ext.php?oid=170222183&id=163576537&hash=cd6dbb4453e04d46,https://vk.com/video_ext.php?oid=170222183&id=163579026&hash=b8b94d06be3c5e78,https://vk.com/video_ext.php?oid=170222183&id=163582045&hash=eabc9a9c5f3fa4fc,https://vk.com/video_ext.php?oid=170222183&id=163583901&hash=c1410c73f602baaa,https://vk.com/video_ext.php?oid=170222183&id=163585584&hash=8cc6ac841e3efb7c,https://vk.com/video_ext.php?oid=170222183&id=163594782&hash=1c9da53f4ff0b85f,https://vk.com/video_ext.php?oid=170222183&id=163609128&hash=81f241d31ceaaa2c,https://vk.com/video_ext.php?oid=170222183&id=163604140&hash=2233f98477f3f3e3,https://vk.com/video_ext.php?oid=170222183&id=163609928&hash=e6d7e510e5ca01da,https://vk.com/video_ext.php?oid=170222183&id=163627817&hash=8074ebaf1c3c04f8,https://vk.com/video_ext.php?oid=170222183&id=163629830&hash=d66a95aa6ecbfedb,https://vk.com/video_ext.php?oid=170222183&id=163645489&hash=79f0af1eca48ca59,https://vk.com/video_ext.php?oid=170222183&id=163646504&hash=267b16f3d6b98db8,https://vk.com/video_ext.php?oid=170222183&id=163648047&hash=1e25bdcd903a9154,https://vk.com/video_ext.php?oid=170222183&id=163651262&hash=742d47e2c8aea372,https://vk.com/video_ext.php?oid=170222183&id=163657061&hash=8eb0ab37a5715d65",
+    "title_page": "Пуаро",
+    "description_short": "Пуаро",
+    "title_en": "Poirot",
+    "title_ru": "Пуаро",
+    "description": "Пуаро",
+    "year": " 1989",
+    "country": "Вялікая Брытанія",
+    "genre": "Трылер,Дэтэктыў,Драма,Крымінал",
+    "director": "Эдвард Бэнэт,Рэні Рай,Эндру Грыў",
+    "actor": "Дэвід Сушэ,Х'ю Фрэйзер,Філіп Джэксан,Палін Моран,Дэвід Елленд,Зоі Уанамэйкер,Рычард Беб,Джордж Літл,Філіп Манікам,Джона Джонс",
+    "premiere": "1989-01-08",
+    "kp_rating": "83",
+    "kp_vote": "70958",
+    "imdb_rating": "86",
+    "imdb_vote": "47702",
+    "pictures": null,
+    "custom": {
+      "unique": false,
+      "lastmod": "0001-01-01T00:00:00",
+      "imdb_id": "0094525"
+    },
+    "kp_id": 85208,
+    "search": "Пуаро"
+  },
+  {
     "id": 84020,
     "type": "movie",
     "poster": "https://raw.githubusercontent.com/duck-duckfield/knbl/main/posters/84020.jpg",
