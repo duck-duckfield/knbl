@@ -9,7 +9,6 @@
 Зух | Fuks | 1999
 Плошча Збаўцы | Plac Zbawiciela | 2006
 Таемнае жыццё Уолтэра Міці
-Кунг-фу панда 2 | Kung Fu Panda 2 | 2011
 Рыса | Rysa | 2008
 Кісінджар і Ніксан | Kissinger and Nixon | 1995
 Прыстань | Przystań | 2009
@@ -18,7 +17,6 @@
 Дзеці славы | Szabadsag, Szerelem | 2006
 Апошняя акцыя | Ostatnia Akcja | 2009
 Кузэны | Primos | 2011
-Кунг-фу панда | 2008
 Прысуд Францішку Клосу | Wyrok na Franciszka Kłosa | 2000
 Кунг-фу панда | Kung Fu Panda | 2008
 Іспанія | Spanien (Spain) | 2012
@@ -32,14 +30,12 @@
 Наканаванне блюзам | Skazany na bluesa | 2006
 Гучней за бомбы | Louder Than Bombs | 2015
 Цыган | Cigán | 2011
-Прывід пяра | The Ghost Writer | 2010
 Вяселле | Wesele | 2004
 Раз'юшаныя нябёсы | Air rage | 2001
 Братка | Braciszek | 2007
 Уоліс і Эдвард | Wallis & Edward | 2005
 Усе святыя | Wszyscy święci | 2002
 Рэквіем | Requiem | 2005
-Маленькі прынц | 2015
 Парнаграфія | Pornografia | 2003
 Мёртвыя і жывыя | Die Lebenden | 2012
 Статысты | Statyści | 2006
@@ -47,7 +43,6 @@
 Наўскач | Cwał | 1995
 Тры метры над небам | Tres metros sobre el cielo | 2010
 За жменю даляраў | Per un pugno di dollari | 1964
-45 гадоў | 45 Years | 2015
 Фарсаж 5 | Fast Five | 2011
 Байцоўскі клуб | Fight Club | 1999
 Трэці | Trzeci | 2004
@@ -55,21 +50,16 @@
 Златан. Узыходжанне | Den unge Zlatan | 2015
 Кроў ад крыві інтэрнэту | The Internet’s Own Boy | 2014
 Надзея на брамніка | Keeper | 2015
-Павадыр | Поводир | 2013
 У мяне было каханне | Je l’aimais | 2009
 Час паміраць | Pora umierać | 2007
 Блуклівае вока | Wandering eye | 2011
 Пара асоб, малы час | Parę osób, mały czas | 2005
-Леон | 1995
-Шторм: палаючы ліст | Storm: Letters van Vuur | 2017
 Помста | Hævnen | 2010
 Мой Нікіфар | Moj Nikifor | 2004
 Скрадзеныя вочы | Откраднати очи (Stolen eyes) | 2005
-Час | 2011
 Стрэмкі | Drzazgi | 2008
 Жыве Францыя! | Vive la France | 2013
 Цырк Каламбія | Cirkus Columbia | 2010
-Таксі | 1998
 Лэдзі ўдачы | Pajęczarki | 1993
 Мой брат – адзіны сын | Mio fratello e figlio unico | 2007
 Белая сукенка | Biała sukienka | 2003
@@ -77,7 +67,6 @@
 Гісторыя з каралямі | The Affair of the Necklace | 2001
 Усё, што люблю | Wszystko, co kocham | 2009
 Другое дзяцінства | Una sconfinata giovinezza | 2010
-Аўтарскі падыход да перакладу.
 Непахаваны | Niepochowany | 2004
 Багі і пачвары | Gods and Monsters | 1998
 Дама з камеліямі | Dama kameliowa | 1995
@@ -97,21 +86,17 @@
 Мой горад | Moje miasto | 2002
 Амерыканскі самурай | American Samurai | 1992
 Цуд на Пурым | Cud Purymowy (The Miracle of Purim) | 2000
-Леон | 1994
 Бывайце, дзеці... | Au revoir, les enfants | 1987
 Маці сваёй маці | Matka swojej matki | 1996
 Вышыванніцы | Brodeuses | 2004
 Мае печаныя куры | Moje pieczone kurczaki | 2002
 Запавет | Zavet | 2007
 Брат майго каханага | Love's Brother | 2004
-У Бога за мяжою | U Pana Boga za miedzą | 2009
 Чаго хочуць жанчыны | What Women Want | 2000
 Гуча! | Guca! | 2006
 Несвядомыя | Inconscientes | 2004
-Ра | R'ha | 2013
 Кніга Ілая | The Book of Eli | 2009
 Не здавайся | No surrender | 2011
-Мандарыны | Mandariinid | 2013
 Кітайская гісторыя | Un cuento chino | 2011
 Збеглая нявеста | Runaway Bride | 1999
 Дзеля Элен | For Ellen | 2012
@@ -120,9 +105,6 @@
 Шукальнікі каляднай зорачкі | Poszukiwacze zaginionej gwiazdki | 1992
 Кава і цыгарэты | Coffee and Cigarettes | 2003
 Чым мы прагнявілі Бога? | Qu’est-ce qu’on a fait au Bon Dieu? | 2014
-Адзін дома 3 | Home Alone 3 | 1997
-Адзін дома 2: Згублены ў Нью Ёрку | Home Alone 2: Lost in New York | 1992
-Адзін дома | Home Alone | 1990
 Дэкалог 89+ | Dekalog 89+ | 2009
 Невядомая гісторыя на Каляды | Nieznana opowieść wigilijna | 2000
 Шлюб і перадузятасць | Bride & Prejudice | 2004
@@ -130,7 +112,6 @@
 Энтані Цымер | Anthony Zimmer | 2005
 Ісус | Jesus | 1979
 Адважны | The Brave | 1997
-Мільёны | Millions | 2004
 Клубнічнае віно | Wino truskawkowe | 2008
 Праўдзівая рамантыка | True Romance | 1993
 Вакол свету за восемдзесят дзён | Around The World in 80 days | 1989
@@ -150,10 +131,7 @@
 Гіцлі | Cheeky | 2003
 Фанфан-цюльпан | Fanfan la Tulipe | 2003
 Тыдзень з жыцця мужчыны | Tydzień z życia mężczyzny | 1999
-Дыяс. Не змывайце гэтай крыві | Diaz - Don't Clean Up This Blood | 2012
 Утрапёныя (1 сезон) | Mad Men (1 season) | 2007
-Таксі 4 | Taxi 4 | 2007
-Таксі 2 | Taxi 2 | 2000
 Таксі | Taxi | 1998
 Адважнае сэрца | Braveheart | 1995
 Генэзіс Тэрмінатара | Terminator Genisys | 2015
@@ -161,40 +139,7 @@
 Тэрмінатар 3: Паўстанне машынаў | Terminator 3: Rise of the Machines | 2003
 Тэрмінатар | The Terminator | 1984
 Дрыжанні | Tremors | 1990
-Інспектар-недарэка | Inspecteur la Bavure | 1980
 Ўаджда | Wadjda | 2012
 Кошт ейнага раману | Her costly affair | 1996
 Таямніца Сагалі | Tajemnica Sagali | 1996
-Басаногі Ген | Hadashi no Gen | 1983
-Прыгоды Віні Пуха | The Many Adventures of Winnie | 1977
-Тарзан 2 | Tarzan 2 | 2005
-Тарзан | Tarzan | 1999
-Меч у камяні | The Sword in the Stone | 1963
-Шрэк Трэці | Shrek The Third | 2007
-Шрэк 2 | Shrek 2 | 2004
-Шрэк | Shrek | 2001
-Удзельнікі турпаездкі | Úcastníci zájezdu | 2006
-Чарцюк з сёмага класу | Szatan z siódmej klasy | 2006
-Трыа Бэльвіля | Les triplettes de Belleville | 2003
-Развод па-амерыканску | Serving Sara | 2002
-Следапыткі з Блэтчлі (1-2 сезоны) | The Bletchley Circle (1-2 seasons) | 2012 - 2014
-Астэрыкс і Абэлікс супраць Цэзара | Astérix & Obélix contre César | 1999
-Лепей быць прыгожай і багатай | Lepiej byc piekna i bogata | 1993
-Пакуты Хрыста | The Passion of the Christ | 2004
-Чалавек прэзідэнта | The President’s Man | 2000
-Венецыя | Wenecja | 2010
-Медсястра Бэці | Nurse Betty | 2000
-Два каханні | Dwie miłości | 2002
-Нарэшце | About Time | 2013
-Пацверджанне | Validation | 2007
-Пракляцце нефрытавага скарпіёна | The Curse of the Jade Scorpion | 2001
-Цырк матылькоў | The Butterfly Circus | 2009
-Блюз па-гаванску | Habana Blues | 2005
-Ноч святога Мікалая | Noc Świętego Mikołaja | 2000
-Ежа | Eat | 2012
-Перапісанае жыццё | Stranger than Fiction | 2006
-Заказное забойства | The Hit | 1984
-Татулі | Les Comperes | 1983
-Чалавек-усмешка | The Smile Man | 2013
-Вандроўныя міны | Mine vaganti | 2010
-Цукар | Suiker | 2010
+Ноч святога Мікалая
