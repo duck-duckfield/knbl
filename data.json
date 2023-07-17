@@ -866,7 +866,7 @@
   {
     "id": 1396300,
     "type": "movie",
-    "poster": "/files/poster/medium/1396300.png",
+    "poster": "https://raw.githubusercontent.com/duck-duckfield/knbl/main/posters/1396300.jpg",
     "quality": null,
     "translate": "Батумскі пераклад",
     "player": "https://drive.google.com/file/d/18IRsexM62Y1cMKxwtemlmTB2LtG134z-/preview",
