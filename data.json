@@ -4970,14 +4970,14 @@
   {
     "id": 920265,
     "type": "movie",
-    "poster": "/files/poster/medium/920265.png",
+    "poster": "https://raw.githubusercontent.com/duck-duckfield/knbl/main/posters/920265.jpg",
     "quality": null,
     "translate": "Мой родны гук",
-    "player": "Player BX https://iframe.mediadelivery.net/embed/129236/9979dc23-50b2-467b-a2d3-08d3de7d4b62,Player GX https://drive.google.com/file/d/1RoYq0fj6_4087GYbWDdYWtAqQiC-zcZB/preview,Трэйлер https://youtu.be/F9twUuvcPJo",
-    "title_page": "Чалавек-павук: Скрозь сусветы | Spider-Man: Into the Spider-Verse | 2018",
+    "player": "Player BX https://iframe.mediadelivery.net/embed/129236/9979dc23-50b2-467b-a2d3-08d3de7d4b62,Player GX https://drive.google.com/file/d/1RoYq0fj6_4087GYbWDdYWtAqQiC-zcZB/preview,Трэйлер https://www.youtube.com/embed/F9twUuvcPJo",
+    "title_page": "Чалавек-павук: скрозь сусветы | Spider-Man: Into the Spider-Verse | 2018",
     "description_short": "Мы ўсё ведаем пра Пітара Паркера. Ён выратаваў горад, закахаўся, а потым ратаваў горад зноў і зноў... Але ўсё гэта – у нашым вымярэнні. А што калі ў выніку працы гіганцкага калайдэра адкрыецца акно з аднаго вымярэння ў іншае? Ці знойдзецца ў ім свой Чалавек-павук? І як ён будзе выглядаць? Прыгатуйцеся да таго, што ў розных сусветах могуць быць розныя Чалавекі-павукі і аднойчы ім давядзецца сабрацца разам для барацьбы з амаль непераможным ворагам.",
     "title_en": "Spider-Man: Into the Spider-Verse",
-    "title_ru": "Чалавек-павук: Скрозь сусветы",
+    "title_ru": "Чалавек-павук: скрозь сусветы",
     "description": "Мы ўсё ведаем пра Пітара Паркера. Ён выратаваў горад, закахаўся, а потым ратаваў горад зноў і зноў... Але ўсё гэта – у нашым вымярэнні. А што калі ў выніку працы гіганцкага калайдэра адкрыецца акно з аднаго вымярэння ў іншае? Ці знойдзецца ў ім свой Чалавек-павук? І як ён будзе выглядаць? Прыгатуйцеся да таго, што ў розных сусветах могуць быць розныя Чалавекі-павукі і аднойчы ім давядзецца сабрацца разам для барацьбы з амаль непераможным ворагам.",
     "year": "2018",
     "country": "Канада,ЗША",
@@ -5001,7 +5001,7 @@
       "movie_id": null
     },
     "kp_id": 920265,
-    "search": "Чалавек-павук: Скрозь сусветы"
+    "search": "Чалавек-павук: скрозь сусветы"
   },
   {
     "id": 910832,
