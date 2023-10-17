@@ -2,7 +2,10 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/tool
+/cpress/tool
+/cpress/*.bat
+/ctwo/tool
+/ctwo/*.bat
 /*.bat
 /.vs
 /api.json
